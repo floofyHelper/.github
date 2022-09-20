@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <p>
-    <a href="https://www.discord.gg/FloofyDen"><img src="https://cdn.discordapp.com/attachments/1008733713217101996/1008734023297802392/Floofy_Helper.png?size=4096" width="546" alt="Floofy Helper" /></a>
+    <a href="https://www.discord.gg/hRmjAUvrpT"><img src="https://cdn.discordapp.com/attachments/1008733713217101996/1008734023297802392/Floofy_Helper.png?size=4096" width="546" alt="Floofy Helper" /></a>
   </p>
   <br />
   <p>
